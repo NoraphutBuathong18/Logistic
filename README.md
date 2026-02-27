@@ -2,6 +2,8 @@
 
 A Node.js and Express based REST API for managing logistics data. This project connects to an Oracle Database to provide data for Big Data systems and other integrations (such as Power BI).
 
+PowerBi: https://app.powerbi.com/view?r=eyJrIjoiMTFmYTNiMDMtODZkNi00MTUwLTkwNWQtZTlkMDI0ZTYzZGI5IiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D&fbclid=IwY2xjawQOG35leHRuA2FlbQIxMABicmlkETI0WFNOMTNTT08wTGY5OVpHc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHn9LFPMYdBW2Ne6LMPXo91TNxJGObkgmMUj11R33scZXFAO4hFh7cbhAbY7E_aem_CdZICJ1YwPoardB3sRZ7zA
+
 ## Features
 
 - RESTful API endpoints for comprehensive logistics management.
