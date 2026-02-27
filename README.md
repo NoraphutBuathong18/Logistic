@@ -4,6 +4,16 @@ A Node.js and Express based REST API for managing logistics data. This project c
 
 PowerBi: https://app.powerbi.com/view?r=eyJrIjoiYTEzYWZhMjMtYWRmNi00MDQwLWFmMzQtY2VjOTczZTVkMzhiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
+## Key Achievements & Responsibilities
+
+- Designed and implemented a data pipeline to collect sales data from CSV files and REST APIs
+- Performed data cleaning and transformation using Python (Pandas)
+- Loaded processed data into MySQL database for analytical querying
+- Wrote complex SQL queries using SELECT, JOIN, GROUP BY for sales analysis
+- Implemented data validation checks to ensure data quality (accuracy, completeness)
+- Designed database schema for structured data storage
+- Generated analytical reports and dashboards for business insights
+
 ## Features
 
 - RESTful API endpoints for comprehensive logistics management.
