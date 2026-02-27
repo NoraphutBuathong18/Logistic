@@ -3,6 +3,7 @@ A Node.js and Express-based REST API server designed to manage and expose struct
 
 PowerBi: https://app.powerbi.com/view?r=eyJrIjoiYTEzYWZhMjMtYWRmNi00MDQwLWFmMzQtY2VjOTczZTVkMzhiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
+![Data Pipeline Diagram](src/laster.png)
 ## Key Achievements & Responsibilities
 
 - Designed and implemented a RESTful API server for managing logistics data
