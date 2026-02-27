@@ -1,18 +1,16 @@
 # Logistics API Server
-
-A Node.js and Express based REST API for managing logistics data. This project connects to an Oracle Database to provide data for Big Data systems and other integrations (such as Power BI).
+A Node.js and Express-based REST API server designed to manage and expose structured logistics data from an Oracle Database for analytics and business intelligence systems such as Power BI.
 
 PowerBi: https://app.powerbi.com/view?r=eyJrIjoiYTEzYWZhMjMtYWRmNi00MDQwLWFmMzQtY2VjOTczZTVkMzhiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
 ## Key Achievements & Responsibilities
 
-- Designed and implemented a data pipeline to collect sales data from CSV files and REST APIs
-- Performed data cleaning and transformation using Python (Pandas)
-- Loaded processed data into MySQL database for analytical querying
-- Wrote complex SQL queries using SELECT, JOIN, GROUP BY for sales analysis
-- Implemented data validation checks to ensure data quality (accuracy, completeness)
-- Designed database schema for structured data storage
-- Generated analytical reports and dashboards for business insights
+- Designed and implemented a RESTful API server for managing logistics data
+- Designed relational database schema in Oracle DB to support structured logistics data
+- Wrote SQL queries using SELECT, JOIN, GROUP BY for analytical and reporting purposes
+- Aggregated and exposed data endpoints for integration with Power BI dashboards
+- Ensured data integrity using primary keys, foreign keys, and relational constraints
+- Structured API endpoints to support scalable data retrieval and integration with external systems
 
 ## Features
 
